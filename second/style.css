@@ -1,0 +1,51 @@
+body{
+	width: 100%;
+	height: 900px;
+	
+
+}
+/*--*{
+	background-color: #DDDDDD;
+} --*/
+.parent {
+	background-color: #DDDDDD;
+	width: 100%;
+	height: 100%;
+	padding-top: 5%;
+}
+
+.container {
+	width: 60%;
+	height: 90%;
+	
+	margin: 0 auto;
+}
+.left {
+	background-color: #4A90E2;
+	width: 33%;
+	height: 100%;
+	display: inline-block;
+
+}
+.center {
+	background-color: #50E3C2;
+	width: 33%;
+	height: 100%;
+	display: inline-block;
+}
+.right {
+	background-color: #B8E986;
+	width: 33%;
+	height: 100%;
+	display: inline-block;
+}
+.placeholder{
+	width: 100%;
+	height: 80%;
+
+}
+.image {
+	width: 100%;
+	height: 20%;
+	display: inline;
+}

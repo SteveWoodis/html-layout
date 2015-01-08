@@ -1,0 +1,65 @@
+body{
+	width: 100%;
+	height: 900px;
+	background-color: #DDDDDD;
+
+}
+.parent {
+	width: 800px;
+	height: 80%;
+	margin: 0 auto;
+	border: 1px solid black;
+
+}
+.toprow {
+	width: 100%;
+	height: 16%;
+	background-color: #DDDDDD;
+
+}
+.floating_box {
+	width: 100px;
+	height: 100px;
+	color: #4A90E2;
+	margin-left: 40px;
+	margin-top: 40px;
+	display: inline;
+}
+.empty {
+	width: 80%;
+	height: 100%;
+	display: inline;
+}
+.textrow {
+	width: 100%;
+	height: 20%;
+	background-color: #FFFFFF;
+
+}
+.status {
+	font-family: arial;
+	font-size: 18px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.bluerow {
+	background-color: #4A90E2;
+	width: 100%;
+	height: 16%;
+}
+.tealrow {
+	width: 100%;
+	height: 16%;
+	background-color: #50E3C2;
+}
+.greenrow {
+	width: 100%;
+	height: 15%;
+	background-color: #B8E986;
+}
+.bottomrow {
+	width: 100%;
+	height: 14%;
+	background-color: #F8E71C;
+}
